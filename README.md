@@ -1,66 +1,83 @@
 # YouTube Music Replica UI Design
 
-![YouTube Music Replica Banner](design-assets/banner.png)
 
 ## 📱 Project Overview
 
-A comprehensive UI/UX design replica of YouTube Music, created in Figma. This project demonstrates modern interface design principles, component-based design systems, and responsive layouts for music streaming applications.
+A comprehensive UI/UX design replica of YouTube Music, created in Figma. This project showcases a complete user flow from app launcher to player experience with multiple screens including home interface and music player. The design demonstrates modern interface principles, interactive prototyping, and attention to detail in replicating the YouTube Music mobile experience.
 
 **Figma Project Link:** [YouTube Music Replica](https://www.figma.com/design/SH6he3w9ZZR7zGxYKi2UEO/YT-Music-Replica?node-id=0-1&t=iGUQMooFGZMQML0A-1)
 
 ## 🎨 Design Features
 
-- **Pixel-perfect replica** of YouTube Music's interface
-- **Responsive layouts** for various device sizes
-- **Component-based design system** for consistency and scalability
-- **Dark mode implementation** for enhanced visual experience
-- **Interactive prototypes** demonstrating key user flows
+- **Detailed interface replica** of YouTube Music's mobile app
+- **Complete user journey** from app launcher to music player
+- **Interactive prototype** with connected screens and transitions
+- **Like/dislike interactions** demonstrated in the player screen
+- **Song details page** with engagement metrics and player controls
+- **Home screen with personalized recommendations** and categorized content
+- **Custom background gradients** matching YouTube Music's aesthetic
 
 ## 📂 Repository Structure
 
 ```
 .
-├── design-assets/           # Exported design assets
-│   ├── screens/             # Full screen exports
-│   ├── components/          # Component exports
-│   └── icons/               # Icon assets
-├── docs/                    # Documentation files
-│   ├── design-system.md     # Design system documentation
-│   └── user-flows.md        # Key user flow documentation
-└── figma-link.md            # Direct Figma project links
+├── design-assets/                # Exported design assets
+│   ├── screens/                  # Full screen exports
+│   │   ├── prototype-flow.png    # Figma prototype flow overview
+│   │   ├── app-launcher.png      # Home screen with YT Music icon
+│   │   ├── home-screen.png       # YT Music home interface
+│   │   └── music-player.png      # Music player for "blue" by yung kai
+│   ├── components/               # Component exports
+│   └── icons/                    # Icon assets
+├── docs/                         # Documentation files
+│   ├── design-system.md          # Design system documentation
+│   └── user-flows.md             # Key user flow documentation
+└── figma-link.md                 # Direct Figma project links
 ```
 
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="design-assets/screens/home.png" alt="Home Screen" width="250">
-  <img src="design-assets/screens/library.png" alt="Library Screen" width="250">
-  <img src="design-assets/screens/player.png" alt="Player Screen" width="250">
+  <img src="design-assets/screens/home-screen.png" alt="YT Music Home Screen" width="250">
+  <img src="design-assets/screens/music-player.png" alt="Music Player Screen" width="250">
 </div>
+
+### Prototype Flow
+![Figma Prototype Flow](design-assets/screens/prototype-flow.png)
+
+The project includes a complete user flow from app launcher to player experience, with interactive elements and transitions.
 
 ## 🛠️ Design Tools & Technologies
 
 - **Figma** - Primary design tool
-- **Auto Layout** - For responsive components
-- **Components & Variants** - For scalable design systems
-- **Smart Animate** - For interactive prototypes
-- **Variables** - For theming and dark mode
+- **Interactive Prototype Flows** - Connected screens with transitions
+- **Components & Variants** - For consistent UI elements across screens
+- **Smart Animate** - For smooth screen transitions
+- **Custom Design Systems** - Replicating YouTube Music's visual language
 
 ## 🔮 Design Decisions
 
+### Featured Song
+
+The design showcases "blue" by yung kai as the featured track, with:
+- Cover art featuring a beach scene with two people walking
+- Engagement metrics (1M likes, 7.3K comments)
+- Player controls and progress bar
+
 ### Color Palette
 
-- Primary: `#FF0000`
+- Primary: `#FF0000` (YouTube Red)
+- Player Background: `#0D7377` (Teal)
 - Background (Dark): `#121212`
-- Background (Light): `#FFFFFF`
+- Gradient Background: Deep blue to purple gradient
 - Text Primary: `#FFFFFF`
 - Text Secondary: `#B3B3B3`
 
 ### Typography
 
-- **Font Family:** YouTube Sans, Roboto
-- **Headings:** YouTube Sans Bold
-- **Body:** Roboto Regular
+- **Font Family:** System fonts optimized for mobile display
+- **Song Title:** Bold weight for emphasis
+- **Artist Name:** Regular weight for hierarchy
 
 ## 🔄 How to Use This Design
 
