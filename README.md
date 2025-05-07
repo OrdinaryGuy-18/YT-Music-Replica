@@ -27,8 +27,7 @@ A comprehensive UI/UX design replica of YouTube Music, created in Figma. This pr
 │   │   ├── 📄 prototype-flow.png    # Figma prototype flow overview
 │   │   ├── 📄 app-launcher.png      # Home screen with YT Music icon
 │   │   ├── 📄 home-screen.png       # YT Music home interface
-│   │   └── 📄 music-player.png      # Music player for "blue" by yung kai
-│   ├── 📁 components/      # UI components (buttons, cards, etc.)
+│   │   └── 📄 music-player.png      # Music player for "blue" by yung kai     
 │   └── 📁 icons/           # SVG/PNG icons used in the design
 ├── 📁 docs/                # Documentation files
 │   ├── 📄 design-system.md # UI guidelines
