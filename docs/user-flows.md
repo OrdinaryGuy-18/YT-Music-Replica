@@ -76,3 +76,4 @@ Allow the user to exit the app seamlessly when they’re done.
 
 Below is a simplified diagram summarizing the flow:
 
+![User Flowchart](../design-assets/screens/flowchart.png)
