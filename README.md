@@ -1,5 +1,6 @@
 # YouTube Music Replica UI Design
 
+![YouTube Music Replica Banner](design-assets/banner.png)
 
 ## 📱 Project Overview
 
@@ -18,17 +19,23 @@ A comprehensive UI/UX design replica of YouTube Music, created in Figma. This pr
 - **Custom background gradients** matching YouTube Music's aesthetic
 
 ## 📂 Repository Structure
+
+```
 📂 YT-Music-Replica
 ├── 📁 design-assets/       # Exported design assets
 │   ├── 📁 screens/         # Full screen exports
+│   │   ├── 📄 prototype-flow.png    # Figma prototype flow overview
+│   │   ├── 📄 app-launcher.png      # Home screen with YT Music icon
+│   │   ├── 📄 home-screen.png       # YT Music home interface
+│   │   └── 📄 music-player.png      # Music player for "blue" by yung kai
 │   ├── 📁 components/      # UI components (buttons, cards, etc.)
-│   ├── 📁 icons/           # SVG/PNG icons used in the design
+│   └── 📁 icons/           # SVG/PNG icons used in the design
 ├── 📁 docs/                # Documentation files
 │   ├── 📄 design-system.md # UI guidelines
-│   ├── 📄 user-flows.md    # User flow diagrams
+│   └── 📄 user-flows.md    # User flow diagrams
 ├── 📄 figma-link.md        # Direct Figma project links
-└── 📄 README.md            # Project overview
-
+└── 📄 README.md            # Project overview (this file)
+```
 
 ## 🖼️ Screenshots
 
